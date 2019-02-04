@@ -4,7 +4,7 @@ library polylingual;
 
 /// [PolyLingual] is a plug-in that can be used to provide multiple language translation strings for an app
 /// It is a static class with the following methods
-/// 
+///
 /// [initialise]
 /// [of]
 /// [string]

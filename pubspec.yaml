@@ -1,6 +1,6 @@
 name: polylingual
-description: A new Flutter package project.
-version: 0.0.1
+description: PolyLingual is a plug-in that provides a means of storing and updating String translations for a Flutter app via a simple JSON file.
+version: 0.0.2
 author: Steve Rogers <srogers.uk@gmail.com>
 homepage: https://github.com/magnatronus/polylingual-package
 
