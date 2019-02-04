@@ -1,0 +1,18 @@
+{
+    "en": {
+        "greeting": "Hello, how are you?",
+        "welcome": "you're welcome, my friend",
+        "thankyou": "thank you very much",
+        "good": "very well",
+        "about": "Information"
+
+    },
+    "es": {
+        "greeting": "¿Hola como estas?",
+        "welcome": "de nada amiga",
+        "thankyou": "muchas gracias",
+        "good": "muy bien",
+        "about": "Información"
+
+    }
+}
